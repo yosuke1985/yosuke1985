@@ -1,5 +1,1 @@
 - 👋 Hi, I’m @yosuke1985
-- 👀 I’m interested in SwiftUI
-- 🌱 I’m currently learning SwiftUI, Composable Architecture
-- 💞️ I’m looking to collaborate on SwiftUI, Composable Architecture
-- 📫 How to reach me yosuke1985tm@gmail.com, Twitter: yosuke8080
